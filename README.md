@@ -1,2 +1,2 @@
-# Vazquez-D424
-Hosting APK for D424
+# Vacation-Planner-APK
+Hosting APK for Vacation Planner Mobile App
